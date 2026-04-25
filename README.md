@@ -15,7 +15,7 @@
 ## 📌 关于我：
 
 - 🌱 学生一枚：正在学习中（一切感兴趣的事物）
-- [神秘小游戏](https://eat-shiroko.pages.dev/)
+- 😋 [神秘小游戏](https://eat-shiroko.pages.dev/)
 
 ## 📫 联系我：
 
