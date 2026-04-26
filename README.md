@@ -22,6 +22,7 @@
 - [Email](mailto:Minecraft_365871@outlook.com)
 - [Bilibili](https://space.bilibili.com/3494374381979891)
 - [X](https://x.com/Minecraft365871)
+- [AcFun](https://www.acfun.cn/u/77454765)
 
 
 ## 📊 我的 GitHub 数据
