@@ -37,4 +37,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Minecraft365871&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
 </div>
 
+## 🖥️浏览次数
 
+  <img src="https://count.getloli.com/@Minecraft_365871?name=Minecraft_365871&theme=rule34&padding=16&offset=0&align=top&scale=2&pixelated=1&darkmode=auto"/>
