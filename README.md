@@ -33,6 +33,10 @@
 
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
 
+## 🥵电子宠物
+
+![Stone Badge](https://stone.professorlee.work/api/stone/Minecraft365871/Minecraft365871)
+
 ## 🖥️浏览次数
 
   <img src="https://count.getloli.com/@Minecraft_365871?name=Minecraft_365871&theme=rule34&padding=16&offset=0&align=top&scale=2&pixelated=1&darkmode=auto"/>
