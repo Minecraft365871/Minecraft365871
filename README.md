@@ -14,25 +14,25 @@
     style="width: 80px; height: 80px; vertical-align: middle; margin: 0 30px;"
   />
   <br/>
-  <small>👆 这是我的编辑器，它比我更懂代码</small>
+  <small>👆 这是我的编辑器，它比我更懂代码😋</small>
   </div>
 
 ## 📌 关于我／私について（或者说，我试图掩盖的事实）：
 
-- 我叫「**Minecraft_365871**」
-- 课余时间我喜欢**日本动漫、轻小说**，也喜欢听**日语歌曲**。
+- 👤 我叫「**Minecraft_365871**」
+- 🇯🇵 课余时间我喜欢**日本动漫、轻小说**，也喜欢听**日语歌曲**🎵
 - 🌱 **学生一枚**：正在学习中（看我如何优雅地复制粘贴）😋
 - 🐛 **Bug 制造机**：如果代码能运行，那一定是个意外😰
 - 😋 [神秘小游戏](https://eat-shiroko.pages.dev/)：点进去前请确保你有足够的摸鱼时间😋👆
 - 🎮 **游戏玩家**：偶尔也写代码，主要在加载界面😭
-- 🖥️日常开发使用 **Windows** 系统。
+- 🖥️ 日常开发使用 **Windows** 系统🪟
 
 ## 📫 联系我／私の連絡先（如果你真的很有勇气）：
 
-- [Email](mailto:Minecraft_365871@outlook.com) （回复速度取决于我的Cookie是否过期）
-- [Bilibili](https://space.bilibili.com/3494374381979891) （看我如何摸鱼）
-- [X](https://x.com/Minecraft365871) （发推频率与我的自律程度成反比）
-- [AcFun](https://www.acfun.cn/u/77454765) （另一个我假装很忙的地方）
+- 📧 [Email](mailto:Minecraft_365871@outlook.com) （回复速度取决于我的Cookie是否过期）
+- 📺 [Bilibili](https://space.bilibili.com/3494374381979891) （看我如何摸鱼）
+- 🐦 [𝕏](https://x.com/Minecraft365871) （发推频率与我的自律程度成反比）
+- 🐵 [AcFun](https://www.acfun.cn/u/77454765) （另一个我假装很忙的地方）
 
 <div align=center>
 
