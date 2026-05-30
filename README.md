@@ -54,6 +54,7 @@
  <img src="https://stone.professorlee.work/api/stone/Minecraft365871/Minecraft365871"/>
  <img src="https://stone.professorlee.work/api/stone/Minecraft365871/Eat-Shiroko"/>
  <img src="https://stone.professorlee.work/api/stone/Minecraft365871/Blog"/>
+ <img src="https://stone.professorlee.work/api/stone/Minecraft365871/bili-msg-bg"/>
 </div>
 
 <div align="center">
