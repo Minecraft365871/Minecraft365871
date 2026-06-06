@@ -55,7 +55,7 @@
  <img src="https://stone.professorlee.work/api/stone/Minecraft365871/Eat-Shiroko"/>
  <img src="https://stone.professorlee.work/api/stone/Minecraft365871/Blog"/>
  <img src="https://stone.professorlee.work/api/stone/Minecraft365871/bili-msg-bg"/>
- <img src="https://stone.professorlee.work/api/stone/Minecraft365871/bilidanmaku-exact" alt="Stone Badge" width="200" />
+ <img src="https://stone.professorlee.work/api/stone/Minecraft365871/bilidanmaku-exact" />
 </div>
 
 <div align="center">
