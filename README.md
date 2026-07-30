@@ -66,14 +66,12 @@
   <img src="https://count.getloli.com/@Minecraft_365871?name=Minecraft_365871&theme=rule34&padding=16&offset=0&align=top&scale=2&pixelated=1&darkmode=auto"/>
   <br/>
 
-  <div align=center>
-  <small>👀 感谢你的访问，希望你不是来找我修电脑的</small>
-  </div>
+
 
 ---
 
 <div align="center">
 
-*Made with ☕ and questionable life choices*
+*Copyright © 2026 - 2026 Minecraft_365871, All Rights Reserved*
 
 </div>
